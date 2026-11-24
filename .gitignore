@@ -1,0 +1,10 @@
+# Minecraft & Betriebssystem
+.DS_Store
+.mcreator
+elements
+run
+Thumbs.db
+mcreator.gradle
+*.zip
+*.log
+*.mcreator
