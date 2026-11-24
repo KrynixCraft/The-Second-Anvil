@@ -1,6 +1,9 @@
 # Minecraft & Betriebssystem
 .DS_Store
 .mcreator
+.gradle
+build
+packloader/build
 elements
 run
 Thumbs.db
