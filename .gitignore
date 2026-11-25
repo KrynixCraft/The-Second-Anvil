@@ -4,6 +4,7 @@
 .gradle
 build
 packloader/build
+packloader/.eclipse
 elements
 run
 Thumbs.db
