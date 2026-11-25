@@ -23,7 +23,6 @@ Vanilla anvils are incredibly expensive, costing 3 Iron Blocks and 4 Iron Ingots
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
----
 
 # Der Zweite Amboss
 
