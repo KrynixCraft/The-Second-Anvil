@@ -1,0 +1,14 @@
+# Gradle & Build
+.gradle/
+build/
+run/
+mcreator.gradle
+
+# MCreator
+.mcreator/
+elements/
+secondanvil.mcreator
+
+# Eclipse / Packloader
+packloader/.eclipse/
+packloader/build/

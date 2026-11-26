@@ -1,6 +1,0 @@
-/execute if items entity @s weapon.mainhand #secondanvil:crafting_materials run say Tag erkannt!
-/datapack list
-/datapack list available
-/test create d 12 1 123
-/test create d 12 1 48
-/test create d 1 1 1
